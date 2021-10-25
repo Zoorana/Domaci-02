@@ -1,0 +1,24 @@
+tbody > tr {
+    background-color: #F8D7DA;
+}
+
+thead > tr {
+    background-color: darkgrey;
+}
+
+body {
+    background-image: url(./slika1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
+.red {
+    background-color: #F8D7DA;
+}
+
+.green {
+    background-color: #D1E7DD;
+}
